@@ -1,0 +1,5 @@
+package com.lxi.controller;
+
+public class LoginController {
+
+}

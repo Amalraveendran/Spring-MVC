@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [17/Nov/2021:16:33:32 +0530] "GET /login/spring-mvc/login HTTP/1.1" 404 995 http-bio-8080-exec-2 78
+0:0:0:0:0:0:0:1 - - [17/Nov/2021:16:33:33 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-4 6
+0:0:0:0:0:0:0:1 - - [17/Nov/2021:16:34:23 +0530] "GET /login/spring-mvc/login HTTP/1.1" 404 995 http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [17/Nov/2021:16:34:24 +0530] "GET /login/spring-mvc/login HTTP/1.1" 404 995 http-bio-8080-exec-8 3
+0:0:0:0:0:0:0:1 - - [17/Nov/2021:16:34:24 +0530] "GET /login/spring-mvc/login HTTP/1.1" 404 995 http-bio-8080-exec-9 2
+0:0:0:0:0:0:0:1 - - [17/Nov/2021:16:34:25 +0530] "GET /login/spring-mvc/login HTTP/1.1" 404 995 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [17/Nov/2021:16:35:31 +0530] "GET /login/spring-mvc/login HTTP/1.1" 404 995 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [17/Nov/2021:16:35:32 +0530] "GET /login/spring-mvc/login HTTP/1.1" 404 995 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [17/Nov/2021:16:35:36 +0530] "GET /spring-mvc/login HTTP/1.1" 200 5 http-bio-8080-exec-8 68
+0:0:0:0:0:0:0:1 - - [17/Nov/2021:16:43:51 +0530] "GET /spring-mvc/login HTTP/1.1" 200 10 http-bio-8080-exec-10 147
+0:0:0:0:0:0:0:1 - - [17/Nov/2021:16:44:56 +0530] "GET /spring-mvc/register HTTP/1.1" 200 18 http-bio-8080-exec-5 72
